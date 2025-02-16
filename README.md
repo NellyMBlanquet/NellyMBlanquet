@@ -4,7 +4,7 @@
 
 ## 🌟 About Me
 
-Hello! I'm **Nelly Patricia Moreno Blanquet**, a **Public Administration Innovator** with a strong background in **statistics, public finance, programming, and technology**. I specialize in **gender perspective integration** and **strategic planning** in public administration. My passion for education drives me to create innovative learning strategies and personalized tutoring in virtual environments.
+Hello! I'm **Nelly Moreno Blanquet**, a **Public Administration Innovator** with a strong background in **statistics, public finance, programming, and technology**. I specialize in **gender perspective integration** and **strategic planning** in public administration. My passion for education drives me to create innovative learning strategies and personalized tutoring in virtual environments.
 
 - **📧 Contact:** nellymblanquet@gmail.com  
 - **🔗 LinkedIn:** [linkedin.com/in/nellymblanquet](https://linkedin.com/in/nellymblanquet)  
@@ -69,7 +69,7 @@ A collection of projects demonstrating my **data analysis** and **visualization*
 
 ## 🌟 Sobre Mí
 
-¡Hola! Soy **Nelly Patricia Moreno Blanquet**, una **Administradora Pública Innovadora** con sólida experiencia en **estadística, finanzas públicas, programación y tecnología**. Me especializo en la **integración de la perspectiva de género** y la **planificación estratégica** en la administración pública. Mi pasión por la educación me impulsa a desarrollar estrategias innovadoras y tutorías personalizadas en entornos virtuales.
+¡Hola! Soy **Nelly Moreno Blanquet**, una **Administradora Pública Innovadora** con sólida experiencia en **estadística, finanzas públicas, programación y tecnología**. Me especializo en la **integración de la perspectiva de género** y la **planificación estratégica** en la administración pública. Mi pasión por la educación me impulsa a desarrollar estrategias innovadoras y tutorías personalizadas en entornos virtuales.
 
 - **📧 Contacto:** nellymblanquet@gmail.com  
 - **🔗 LinkedIn:** [linkedin.com/in/nellymblanquet](https://linkedin.com/in/nellymblanquet)  
