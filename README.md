@@ -1,65 +1,82 @@
-# 📂 Portfolio of Projects | Data Analysis & Web Development
+# 📂 Project Portfolio | Data Analysis & Web Development
 
-[Versión en español abajo | Spanish version below]
+[Sapanish version below]
 
-## 🌟 About Me
+Welcome! 🚀 This is my space to document my progress in **FreeCodeCamp** and the **Google Data Analytics Course on Coursera**. Here, you'll find projects, learnings, and experiments in programming and data analysis.
 
-Hello! I'm **Nelly Moreno Blanquet**, a **Public Administration Innovator** with a strong background in **statistics, public finance, programming, and technology**. I specialize in **gender perspective integration** and **strategic planning** in public administration. My passion for education drives me to create innovative learning strategies and personalized tutoring in virtual environments.
+---
 
-- **📧 Contact:** nellymblanquet@gmail.com  
-- **🔗 LinkedIn:** [linkedin.com/in/nellymblanquet](https://linkedin.com/in/nellymblanquet)  
-- **🐙 GitHub:** [github.com/NellyMBlanquet](https://github.com/NellyMBlanquet)
+## 👩‍💻 About Me
+
+I am **Nelly Moreno Blanquet**, a Public Administrator with experience in **data analysis, statistics, and technology**. I am passionate about continuous learning, innovation, and developing digital strategies.
+
+📩 **Contact:** nellymblanquet@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/nellymblanquet](https://linkedin.com/in/nellymblanquet)  
+🐙 **GitHub:** [github.com/NellyMBlanquet](https://github.com/NellyMBlanquet)
+
+---
+
+## 🎯 What I'm Currently Working On
+✅ Learning **Web Development** on FreeCodeCamp  
+✅ Studying **Data Analysis** with Google on Coursera  
+✅ Building projects to improve my skills in **Python, R, and SQL**  
+
+---
 
 ## 🎓 Education
 
-- **Bachelor’s in Economics** *(In Progress)* – Faculty of Economics  
-  - Knowledge in economic theory, quantitative analysis, and public policies.  
-  - Development of statistical and econometric tools.  
-- **Master’s in Public Administration** – National Institute of Public Administration *(2019 – Present)*  
-  - Advanced knowledge in public management, policies, and government finance.  
-  - Expertise in policy formulation, implementation, and evaluation.  
-- **Bachelor’s in Government and Public Administration** – National Institute of Public Administration *(2014 – 2016)*  
-  - Strong foundation in public sector management and policy design.  
+🎓 **Master's in Public Administration** – INAP (2016 – 2018)  
+🎓 **Bachelor's in Economics** (In progress) – Faculty of Economics  
+🎓 **Bachelor's in Government and Public Administration** – INAP (2007 – 2010)  
 
-## 💼 Relevant Work Experience
+---
 
-🔹 **Deputy Director of Data Control & Monitoring** – Attorney General’s Office *(2013 – 2015)*  
-- Developed and implemented **statistical models** for crime analysis.  
-- Managed complex projects and coordinated **multidisciplinary teams**.  
-- Produced statistical reports to support public security strategies.  
+## 💼 Professional Experience
 
-🔹 **Analyst** – Ministry of Communications and Transport *(2010 – 2012)*  
-- Developed and executed **strategic plans**.  
-- Managed public budgets.  
-- Implemented **database management systems**.  
+🔹 **Deputy Director of Data Control and Monitoring** – FGR (2013 – 2015)  
+   📌 Development of statistical models for crime data analysis  
+   📌 Project management and coordination of multidisciplinary teams  
 
-## 🚀 FreeCodeCamp Projects
+🔹 **Analyst** – Secretariat of Communications and Transportation (2010 – 2012)  
+   📌 Development and execution of strategic plans  
+   📌 Comprehensive budget management  
 
-A showcase of my completed **web development** projects from FreeCodeCamp.
+---
 
-- [Project 1] – Brief description of the project and technologies used.
-- [Project 2] – Brief description of the project and technologies used.
+## 🚀 Projects
 
-## 📊 Google Data Analytics Course (Coursera) Projects
+### 📌 FreeCodeCamp
+📁 **[Cat APP](#)**  
+🔹 Technologies: HTML, CSS, JavaScript  
+🔹 Brief project description  
 
-A collection of projects demonstrating my **data analysis** and **visualization** skills.
+### 📊 Data Analysis (Google Coursera)
 
-- [Project 1] – Brief project description, tools used (R, Python), and conclusions.
-- [Project 2] – Brief project description, tools used, and conclusions.
+---
 
-## 🛠 Skills
+## 🛠️ Skills
 
-- **Public Sector Knowledge**  
-- **Gender Perspective Integration**  
-- **Regulatory Frameworks & Compliance**  
-- **Strategic Planning**  
-- **Languages:** English, French, Italian, German, Japanese  
+### 📌 Technical
+🔹 Python | R | SQL | Power BI | Tableau  
+🔹 HTML | CSS | JavaScript | GitHub  
+🔹 Data analysis and visualization  
+
+### 📌 Soft Skills
+🔹 Critical thinking  
+🔹 Project management  
+🔹 Leadership and personalized tutoring  
+
+---
 
 ## 🎯 Goals
+✅ Master web development with FreeCodeCamp  
+✅ Complete the Google Data Analytics Course  
+✅ Build a strong portfolio with real-world projects  
+✅ Connect with opportunities in technology and data  
 
-- Master fundamental **web development** skills through FreeCodeCamp.  
-- Complete the **Google Data Analytics Course** and apply insights to real-world projects.  
-- Build a **strong portfolio** that showcases my skills and expertise.  
+---
+
+Thank you for visiting my portfolio! 🌟  
 
 ---
 
@@ -67,57 +84,79 @@ A collection of projects demonstrating my **data analysis** and **visualization*
 
 [English version above]
 
-## 🌟 Sobre Mí
-
-¡Hola! Soy **Nelly Moreno Blanquet**, una **Administradora Pública Innovadora** con sólida experiencia en **estadística, finanzas públicas, programación y tecnología**. Me especializo en la **integración de la perspectiva de género** y la **planificación estratégica** en la administración pública. Mi pasión por la educación me impulsa a desarrollar estrategias innovadoras y tutorías personalizadas en entornos virtuales.
-
-- **📧 Contacto:** nellymblanquet@gmail.com  
-- **🔗 LinkedIn:** [linkedin.com/in/nellymblanquet](https://linkedin.com/in/nellymblanquet)  
-- **🐙 GitHub:** [github.com/NellyMBlanquet](https://github.com/NellyMBlanquet)
-
-## 🎓 Educación
-
-- **Licenciatura en Economía** *(En curso)* – Facultad de Economía  
-  - Conocimientos en teoría económica, análisis cuantitativo y políticas públicas.  
-  - Desarrollo de herramientas estadísticas y econométricas.  
-- **Maestría en Administración Pública** – Instituto Nacional de Administración Pública *(2019 – Presente)*  
-  - Conocimientos avanzados en gestión pública, políticas y finanzas gubernamentales.  
-  - Especialización en formulación, implementación y evaluación de políticas públicas.  
-- **Licenciatura en Gobierno y Administración Pública** – Instituto Nacional de Administración Pública *(2014 – 2016)*  
-  - Bases teóricas y prácticas en gestión y dirección del sector público.  
-
-## 💼 Experiencia Profesional Relevante
-
-🔹 **Subdirectora de Control y Seguimiento de Datos** – Fiscalía General de la República *(2013 – 2015)*  
-- Desarrollo e implementación de **modelos estadísticos** para el análisis delictivo.  
-- Gestión de proyectos complejos y coordinación de **equipos multidisciplinarios**.  
-- Generación de reportes estadísticos para estrategias de seguridad pública.  
-
-🔹 **Analista** – Secretaría de Comunicaciones y Transportes *(2010 – 2012)*  
-- Desarrollo y ejecución de **planes estratégicos**.  
-- Administración de presupuestos públicos.  
-- Implementación de **sistemas de gestión de bases de datos**.  
-
-## 🚀 Proyectos FreeCodeCamp
-
-Un espacio para documentar mis proyectos completados en **desarrollo web**.
-
-- [Proyecto 1] – Descripción breve del proyecto y tecnologías utilizadas.
-- [Proyecto 2] – Descripción breve del proyecto y tecnologías utilizadas.
-
-## 📊 Proyectos del Curso de Análisis de Datos de Google (Coursera)
-
-Mis proyectos de **análisis de datos y visualización**.
-
-- [Proyecto 1] – Descripción breve, herramientas utilizadas (R, Python) y conclusiones.
-- [Proyecto 2] – Descripción breve, herramientas utilizadas y conclusiones.
-
-## 🎯 Metas
-
-- Dominar **desarrollo web** a través de FreeCodeCamp.  
-- Completar el **Curso de Análisis de Datos de Google** y aplicar conocimientos en proyectos prácticos.  
-- Construir un **portafolio sólido** que refleje mis habilidades y conocimientos.  
+¡Bienvenido/a! 🚀 Este es mi espacio para documentar mi progreso en **FreeCodeCamp** y el **Curso de Análisis de Datos de Google en Coursera**. Aquí encontrarás proyectos, aprendizajes y experimentos en programación y análisis de datos.
 
 ---
 
-¡Gracias por visitar mi portafolio! 🚀
+## 👩‍💻 Sobre Mí
+
+Soy **Nelly Moreno Blanquet**, Administradora Pública con experiencia en **análisis de datos, estadística y tecnología**. Me apasiona el aprendizaje continuo, la innovación y el desarrollo de estrategias digitales.
+
+📩 **Contacto:** nellymblanquet@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/nellymblanquet](https://linkedin.com/in/nellymblanquet)  
+🐙 **GitHub:** [github.com/NellyMBlanquet](https://github.com/NellyMBlanquet)
+
+---
+
+## 🎯 En qué estoy trabajando actualmente
+✅ Aprendiendo **Desarrollo Web** en FreeCodeCamp  
+✅ Estudiando **Análisis de Datos** con Google en Coursera  
+✅ Construyendo proyectos para mejorar mis habilidades en **Python, R y SQL**  
+
+---
+
+## 🎓 Educación
+
+🎓 **Maestría en Administración Pública** – INAP (2016 – 2018)  
+🎓 **Licenciatura en Economía** (En curso) – Facultad de Economía  
+🎓 **Licenciatura en Gobierno y Administración Pública** – INAP (2007 – 2010)  
+
+---
+
+## 💼 Experiencia Profesional
+
+🔹 **Subdirectora de Control y Seguimiento de Datos** – FGR (2013 – 2015)  
+   📌 Desarrollo de modelos estadísticos para el análisis de datos delictivos  
+   📌 Gestión de proyectos y coordinación de equipos multidisciplinarios  
+
+🔹 **Analista** – Secretaría de Comunicaciones y Transportes (2010 – 2012)  
+   📌 Desarrollo y ejecución de planes estratégicos  
+   📌 Gestión integral de presupuestos  
+
+---
+
+## 🚀 Proyectos
+
+### 📌 FreeCodeCamp
+📁 **[APP Gato](#)**  
+🔹 Tecnologías: HTML, CSS, JavaScript  
+🔹 Descripción breve del proyecto  
+
+### 📊 Análisis de Datos (Google Coursera)
+
+---
+
+## 🛠️ Habilidades
+
+### 📌 Técnicas
+🔹 Python | R | SQL | Power BI | Tableau  
+🔹 HTML | CSS | JavaScript | GitHub  
+🔹 Análisis de datos y visualización  
+
+### 📌 Blandas
+🔹 Pensamiento crítico  
+🔹 Gestión de proyectos  
+🔹 Liderazgo y tutoría personalizada  
+
+---
+
+## 🎯 Metas
+✅ Dominar desarrollo web con FreeCodeCamp  
+✅ Completar el Curso de Análisis de Datos de Google  
+✅ Construir un portafolio sólido con proyectos reales  
+✅ Conectar con oportunidades en tecnología y datos  
+
+---
+
+¡Gracias por visitar mi portafolio! 🌟
+
