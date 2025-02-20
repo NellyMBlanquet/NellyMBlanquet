@@ -10,10 +10,6 @@ Welcome! 🚀 This is my space to document my progress in **FreeCodeCamp** and t
 
 I am **Nelly Moreno Blanquet**, a Public Administrator with experience in **data analysis, statistics, and technology**. I am passionate about continuous learning, innovation, and developing digital strategies.
 
-📩 **Contact:** nellymblanquet@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/nellymblanquet](https://linkedin.com/in/nellymblanquet)  
-🐙 **GitHub:** [github.com/NellyMBlanquet](https://github.com/NellyMBlanquet)
-
 ---
 
 ## 🎯 What I'm Currently Working On
@@ -91,10 +87,6 @@ Thank you for visiting my portfolio! 🌟
 ## 👩‍💻 Sobre Mí
 
 Soy **Nelly Moreno Blanquet**, Administradora Pública con experiencia en **análisis de datos, estadística y tecnología**. Me apasiona el aprendizaje continuo, la innovación y el desarrollo de estrategias digitales.
-
-📩 **Contacto:** nellymblanquet@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/nellymblanquet](https://linkedin.com/in/nellymblanquet)  
-🐙 **GitHub:** [github.com/NellyMBlanquet](https://github.com/NellyMBlanquet)
 
 ---
 
