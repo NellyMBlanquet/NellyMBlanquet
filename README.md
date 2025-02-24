@@ -1,4 +1,7 @@
-# Hello World this is Nelly Moreno Blanquet | Data Analysis & Web Development
+
+print("Hello World! This is Nelly Moreno Blanquet!")
+
+# Data Analysis & Web Development
 
 👋 Hi! Welcome to my GitHub. Here, I document my learning journey in Web Development (FreeCodeCamp) and Data Analytics (Google Coursera).
 
