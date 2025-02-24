@@ -2,7 +2,7 @@
 ```python
 print("Hello World this is Nelly!")
 ```
-# Data Analysis & Web Development 👋
+# Data Analysis & Web Development
 
 Welcome to my GitHub. Here, I document my learning journey in **Web Development** (FreeCodeCamp) and **Data Analytics** (Google Coursera).
 
@@ -45,6 +45,6 @@ Public Administrator with experience in data analysis, statistics, and technolog
 - Connect with tech & data opportunities  
 
 ## 📩 Let’s Connect!
-- [LinkedIn](https://www.linkedin.com/in/tu-perfil)
+- [LinkedIn](https://www.linkedin.com/in/nellymblanquet)
 
 
